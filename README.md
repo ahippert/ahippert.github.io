@@ -10,50 +10,30 @@ _Robust Mean and Covariance Matrix Estimation Under Heterogeneous Mixed-Effects 
 <br/>
 Submitted to `Signal Processing`, **2021**.
 
-_Spatio-temporal flling of missing data in remotely sensed displacement measurement time series._
+[_Spatio-temporal flling of missing data in remotely sensed displacement measurement time series._](https://ieeexplore.ieee.org/abstract/document/9173747)
 <br/>
 Hippert-Ferrer A., Yan Y., Bolon P., Millan R..
 <br/>
 `IEEE Geoscience and Remote Sensing Letters`, **2020**.
 
-_EM-EOF: gap-flling in incomplete SAR displacement time series._
+[_EM-EOF: gap-flling in incomplete SAR displacement time series._](https://ieeexplore.ieee.org/abstract/document/9170898)
 <br/>
 Hippert-Ferrer A., Yan Y., Bolon P. 
 <br/>
 `IEEE Transactions on Geoscience and Remote Sensing`, **2020**.
 
-_Gap-filling based on EOF analysis of spatio-temporal covariance of satellite image derived displacement time series_
+[_Gap-filling based on EOF analysis of spatio-temporal covariance of satellite image derived displacement time series._](https://ieeexplore.ieee.org/document/9324467)
 <br/>
 Alexandre Hippert-Ferrer, Yajing Yan, Philippe Bolon
 <br/>
 `IGARSS`, **Sep 2020**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[_Gap-filling based on iterative EOF analysis of temporal covariance : application to InSAR displacement time series._](https://ieeexplore.ieee.org/document/8898952)
+<br/>
+Alexandre Hippert-Ferrer, Yajing Yan, Philippe Bolon
+<br/>
+`IGARSS`, **2019**.
 
-```markdown
-Syntax highlighted code block
+## Teaching
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahippert/ahippert.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Education
