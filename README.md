@@ -1,4 +1,4 @@
-## Short bio
+## Short bio <a href="ahippert.github.io/pdfs/curriculum.pdf" target="_blank"> [CV](https://github.com/ahippert/ahippert.github.io/pdfs/curriculum.pdf.) </a>
 
 I am a post-doc at [L2S](https://l2s.centralesupelec.fr/) working with [Florent Bouchard](https://sites.google.com/view/florentbouchard/home) and [Nabil El Korso](https://sites.google.com/site/nabkorso/) (LEME, Université Paris Nanterre). I am interested in the analysis of incomplete data in various applications, such as remote sensing data or EEG data. My research focuses on two kind of approaches to deal with missing data : predictive and parametric approaches. In the former, I try to use EOF analysis and EM algorithm to iteratively predict missing values. In the latter, we try to estimate statistical parameters (mean, covariance) using the EM algorithm from incomplete data.
 
