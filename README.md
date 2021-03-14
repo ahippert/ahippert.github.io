@@ -4,20 +4,28 @@ I am a post-doc at [L2S](https://l2s.centralesupelec.fr/) working with [Florent 
 
 ## Publications (also in [HAL](https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=hippert-ferrer&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/styles_publicationsHAL.css))
 
-_Robust Mean and Covariance Matrix Estimation Under Heterogeneous Mixed-Effects Model_
-Alexandre Hippert-Ferrer, M. N. El Korso, Arnaud Breloy, Guillaume Ginolhac
+_Robust Mean and Covariance Matrix Estimation Under Heterogeneous Mixed-Effects Model._
+<br/>
+  Alexandre Hippert-Ferrer, M. N. El Korso, Arnaud Breloy, Guillaume Ginolhac
+<br/>
 Submitted to `Signal Processing`, **2021**.
 
 _Spatio-temporal flling of missing data in remotely sensed displacement measurement time series._
+<br/>
 Hippert-Ferrer A., Yan Y., Bolon P., Millan R..
+<br/>
 `IEEE Geoscience and Remote Sensing Letters`, **2020**.
 
 _EM-EOF: gap-flling in incomplete SAR displacement time series._
+<br/>
 Hippert-Ferrer A., Yan Y., Bolon P. 
+<br/>
 `IEEE Transactions on Geoscience and Remote Sensing`, **2020**.
 
 _Gap-filling based on EOF analysis of spatio-temporal covariance of satellite image derived displacement time series_
+<br/>
 Alexandre Hippert-Ferrer, Yajing Yan, Philippe Bolon
+<br/>
 `IGARSS`, **Sep 2020**.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
