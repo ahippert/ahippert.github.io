@@ -62,6 +62,9 @@ Tutorial: Image correlation.
        _Missing data reconstruction in displacement measurement time series by remote sensing._
 <br/>
        under the supervision of [Philippe Bolon](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/philippe-bolon/) and [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/).
+<br/>
 `2017` Master of Science in _Remote Sensing Physics_, Université Pierre et Marie Curie, Paris.
+<br/>
 `2016` Engineering degree, spec. _Energy and Environmental engineering_, École Centrale d'Électronique, Paris.
+<br/>
 `2011` Scientifi Baccalauréat, Lycée Fénelon, Paris.
