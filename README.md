@@ -1,6 +1,6 @@
 ## Short bio (<a href="ahippert.github.io/pdfs/curriculum.pdf" target="_blank">CV</a>)
 
-I am a post-doc at [L2S](https://l2s.centralesupelec.fr/) working with [Florent Bouchard](https://sites.google.com/view/florentbouchard/home) and [Nabil El Korso](https://sites.google.com/site/nabkorso/) (LEME, Université Paris Nanterre). I am interested in the analysis of incomplete data in various applications, such as remote sensing data or EEG data. My research focuses on two kind of approaches to deal with missing data : predictive and parametric approaches. In the former, I try to use EOF analysis and EM algorithm to iteratively predict missing values. In the latter, we try to estimate statistical parameters (mean, covariance) using the EM algorithm from incomplete data.
+I am a post-doc at [L2S](https://l2s.centralesupelec.fr/) working with [Florent Bouchard](https://sites.google.com/view/florentbouchard/home) and [Nabil El Korso](https://sites.google.com/site/nabkorso/) (LEME, Université Paris Nanterre). I am interested in the analysis of incomplete data in various applications, such as remote sensing data or EEG data. My research focuses on two kind of approaches to deal with missing data : predictive and parametric approaches. In the former, I try to use EOF analysis and EM-types algorithms to iteratively predict missing values. In the latter, the aim is to estimate statistical parameters (mean, covariance) using the EM algorithm from incomplete data.
 
 ## Publications (also in [HAL](https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=hippert-ferrer&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/styles_publicationsHAL.css))
 
@@ -63,8 +63,8 @@ Tutorial: Image correlation.
 <br/>
        under the supervision of [Philippe Bolon](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/philippe-bolon/) and [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/).
 <br/>
-`2017` Master of Science in _Remote Sensing Physics_, Université Pierre et Marie Curie, Paris.
+`2017` Master of Science in [_Remote Sensing Physics_](http://teledetection.lmd.jussieu.fr/mpt/), Université Pierre et Marie Curie, Paris.
 <br/>
 `2016` Engineering degree, spec. _Energy and Environmental engineering_, École Centrale d'Électronique, Paris.
 <br/>
-`2011` Scientifi Baccalauréat, Lycée Fénelon, Paris.
+`2011` Scientific Baccalauréat, Lycée Fénelon, Paris.
