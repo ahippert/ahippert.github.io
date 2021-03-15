@@ -35,7 +35,7 @@ Alexandre Hippert-Ferrer, Yajing Yan, Philippe Bolon
 `IGARSS`, **2019**.
 
 ## Teaching
-### Polytech Annecy-Chambéry (engineering school), 2017 - 2020
+### 2017 - 2020 -- Polytech Annecy-Chambéry (School of engineering)
 As part of the computer science department, I have taught during my PhD several courses, mainly lab sessions and tutorials:
 - `Introduction to algorithmics and programming` (1st year students)
 <br/>
@@ -50,9 +50,18 @@ In this course, I conducted lab sessions on Signal propagation, Spectral analysi
 <br/>
 I supervised three lab sessions on Autocorrelation functions, Spectral analysis and Adaptive filtering.
 - `Image processing` (4th year), lectures by [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/)
+<br/>
 Lab sessions: Image filtering and 2D correlation with an application to glacier displacement estimation with radar satellite images.
 <br/>
 Tutorial: Image correlation.
 
 
 ## Education
+`2020` Ph.D Candidate, Université Savoie Mont Blanc, Annecy.
+<br/>
+       _Missing data reconstruction in displacement measurement time series by remote sensing._
+<br/>
+       under the supervision of [Philippe Bolon](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/philippe-bolon/) and [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/).
+`2017` Master of Science in _Remote Sensing Physics_, Université Pierre et Marie Curie, Paris.
+`2016` Engineering degree, spec. _Energy and Environmental engineering_, École Centrale d'Électronique, Paris.
+`2011` Scientifi Baccalauréat, Lycée Fénelon, Paris.
