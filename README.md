@@ -35,19 +35,21 @@ Alexandre Hippert-Ferrer, Yajing Yan, Philippe Bolon
 `IGARSS`, **2019**.
 
 ## Teaching
-### 2017 - 2020
-- Algorithmique et programmation (1ère année, niveau L1) [TD-TP]
-    Base de la programmation, travaux dirigés et pratiques en Python. \href{https://ahippert.github.io/pdfs/rappel_python.pdf}{Exemple de fiche} procurée aux étudiants.
-- Programmation objet avec Python (3ème année, niveau L3) [TP]
-  Rappel des bases de la programmation objet, suivi de mini-projets groupés.
-- Traitement du signal (L3) [TP]
-    Propagation des signaux, Analyse spectrale, Filtrage numérique
-- Signaux aléatoires (4ème année, niveau M1) [TD-TP]
-Autocorrélation, Analyse spectrale, Densité spectrale, Filtrage adaptatif
-- Traitement d'images (M1) [TD-TP]
- Corrélation 2D, Filtrage d'images
+### Polytech Annecy-Chambéry (engineering school), 2017 - 2020
+As part of the computer science department, I have taught during my PhD several courses, mainly lab sessions and tutorials:
+- Introduction to algorithmics and programming (1st year students)
+Tutorials sessions on the basics of programming. Python was used in lab sessions. Here is an <a href="ahippert.github.io/pdfs/rappel_python.pdf" target="_blank">Python memo example</a> given to students.
+- Object oriented programming with Python (3rd year students)
+Lab sessions: supervision of group projects extending to several sessions (example: building a house in 3D, Minesweeper video game, Roof temperature monitoring system, etc.).
+- Introduction to signal processing (3rd year)
+In this course, I conducted lab sessions on Signal propagation, Spectral analysis and Digital filtering.
+- Random signal processing (4th year), lectures by [Guillaume Ginolhac](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/guillaume-ginolhac/).
+I supervised three lab sessions on Autocorrelation functions, Spectral analysis and Adaptive filtering.
+- Image processing (4th year), lectures by [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/)
+Lab sessions: Image filtering and 2D correlation with an application to glacier displacement estimation with radar satellite images.
+<br/>
+Tutorial: Image correlation.
 
 \underline{Volume total} : \textbf{130 heures}.
-<a href="ahippert.github.io/pdfs/rappel_python.pdf" target="_blank">Fiche de rappels en Python (niveau débutant)</a>
 
 ## Education
