@@ -35,5 +35,19 @@ Alexandre Hippert-Ferrer, Yajing Yan, Philippe Bolon
 `IGARSS`, **2019**.
 
 ## Teaching
+### 2017 - 2020
+- Algorithmique et programmation (1ère année, niveau L1) [TD-TP]
+    Base de la programmation, travaux dirigés et pratiques en Python. \href{https://ahippert.github.io/pdfs/rappel_python.pdf}{Exemple de fiche} procurée aux étudiants.
+- Programmation objet avec Python (3ème année, niveau L3) [TP]
+  Rappel des bases de la programmation objet, suivi de mini-projets groupés.
+- Traitement du signal (L3) [TP]
+    Propagation des signaux, Analyse spectrale, Filtrage numérique
+- Signaux aléatoires (4ème année, niveau M1) [TD-TP]
+Autocorrélation, Analyse spectrale, Densité spectrale, Filtrage adaptatif
+- Traitement d'images (M1) [TD-TP]
+ Corrélation 2D, Filtrage d'images
+
+\underline{Volume total} : \textbf{130 heures}.
+<a href="ahippert.github.io/pdfs/rappel_python.pdf" target="_blank">Fiche de rappels en Python (niveau débutant)</a>
 
 ## Education
