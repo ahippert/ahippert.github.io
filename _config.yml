@@ -1,4 +1,9 @@
 title: Alexandre Hippert-Ferrer
 email: alexandre.hippert-ferrer@centralesupelec.fr
 username: ahippert
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 theme: jekyll-theme-minimal
