@@ -25,18 +25,21 @@ Submitted to `Signal Processing`, **2021**.
 Hippert-Ferrer A., Yan Y., Bolon P., Millan R..
 <br/>
 `IEEE Geoscience and Remote Sensing Letters`, **2020**.
+<a href="ahippert.github.io/pdfs/grsl_2020.pdf" target="_blank">PDF</a> -- Code
 
 [_EM-EOF: gap-flling in incomplete SAR displacement time series._](https://ieeexplore.ieee.org/abstract/document/9170898)
 <br/>
 Hippert-Ferrer A., Yan Y., Bolon P. 
 <br/>
 `IEEE Transactions on Geoscience and Remote Sensing`, **2020**.
+<a href="ahippert.github.io/pdfs/grsl_2020.pdf" target="_blank">PDF</a> 
 
 [_Gap-filling based on EOF analysis of spatio-temporal covariance of satellite image derived displacement time series._](https://ieeexplore.ieee.org/document/9324467)
 <br/>
 Alexandre Hippert-Ferrer, Yajing Yan, Philippe Bolon
 <br/>
 `IGARSS`, **Sep 2020**, Hawaii, USA (Online).
+<a href="https://hal.archives-ouvertes.fr/hal-02178695v2/document" target="_blank">PDF</a> -- Code
 
 [_Gap-filling based on iterative EOF analysis of temporal covariance : application to InSAR displacement time series._](https://ieeexplore.ieee.org/document/8898952)
 <br/>
