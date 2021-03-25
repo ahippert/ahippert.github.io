@@ -16,15 +16,16 @@ The aim is build robust estimators of statistical parameters (as the mean and th
 
 [_Robust Mean and Covariance Matrix Estimation Under Heterogeneous Mixed-Effects Model._](https://hal.archives-ouvertes.fr/hal-03156771/document)
 <br/>
-  Alexandre Hippert-Ferrer, M. N. El Korso, Arnaud Breloy, Guillaume Ginolhac
+Hippert-Ferrer A., El Korso M. N., Breloy A., Ginolhac G.
 <br/>
 Submitted to `Signal Processing`, **2021**.
 
 [_Spatio-temporal flling of missing data in remotely sensed displacement measurement time series._](https://ieeexplore.ieee.org/abstract/document/9173747)
 <br/>
-Hippert-Ferrer A., Yan Y., Bolon P., Millan R..
+Hippert-Ferrer A., Yan Y., Bolon P., Millan R.
 <br/>
 `IEEE Geoscience and Remote Sensing Letters`, **2020**.
+<br/>
 <a href="ahippert.github.io/pdfs/grsl_2020.pdf" target="_blank">PDF</a> -- Code
 
 [_EM-EOF: gap-flling in incomplete SAR displacement time series._](https://ieeexplore.ieee.org/abstract/document/9170898)
@@ -32,26 +33,32 @@ Hippert-Ferrer A., Yan Y., Bolon P., Millan R..
 Hippert-Ferrer A., Yan Y., Bolon P. 
 <br/>
 `IEEE Transactions on Geoscience and Remote Sensing`, **2020**.
-<a href="ahippert.github.io/pdfs/grsl_2020.pdf" target="_blank">PDF</a> 
+<br/>
+<a href="ahippert.github.io/pdfs/tgrs_2020.pdf" target="_blank">PDF</a> 
 
 [_Gap-filling based on EOF analysis of spatio-temporal covariance of satellite image derived displacement time series._](https://ieeexplore.ieee.org/document/9324467)
 <br/>
-Alexandre Hippert-Ferrer, Yajing Yan, Philippe Bolon
+Hippert-Ferrer A., Yan Y., Bolon P.
 <br/>
 `IGARSS`, **Sep 2020**, Hawaii, USA (Online).
-<a href="https://hal.archives-ouvertes.fr/hal-02178695v2/document" target="_blank">PDF</a> -- Code
+<br/>
+<a href="ahippert.github.io/pdfs/igarss_2020" target="_blank">PDF</a>
 
 [_Gap-filling based on iterative EOF analysis of temporal covariance : application to InSAR displacement time series._](https://ieeexplore.ieee.org/document/8898952)
 <br/>
-Alexandre Hippert-Ferrer, Yajing Yan, Philippe Bolon
+Hippert-Ferrer A., Yan Y., Bolon P.
 <br/>
 `IGARSS`, **2019**, Yokohama, Japan.
+<br/>
+<a href="https://hal.archives-ouvertes.fr/hal-02178695v2/document" target="_blank">PDF</a> -- Code
 
 Reconstruction de données manquantes par analyse en EOF : application aux séries temporelles de mesures de déplacement InSAR. 
 <br/>
 Hippert-Ferrer A., Yan Y., Bolon P. 
 <br/>
 `GRETSI`, **août 2019**, Lille, France.
+<br/>
+<a href="https://hal.archives-ouvertes.fr/hal-02276527/document" target="_blank">PDF</a>
 
 ## Teaching
 ### 2017 - 2020 -- Polytech Annecy-Chambéry (School of engineering)
