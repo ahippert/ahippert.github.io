@@ -26,7 +26,7 @@ Hippert-Ferrer A., Yan Y., Bolon P., Millan R.
 <br/>
 `IEEE Geoscience and Remote Sensing Letters`, **2020**.
 <br/>
-\[<a href="https://github.com/ahippert/ahippert.github.io/pdfs/grsl_2020.pdf" target="_blank">PDF</a>\] 
+\[<a href="https://ahippert.github.io/pdfs/grsl_2020.pdf" target="_blank">PDF</a>\] 
 
 [_EM-EOF: gap-flling in incomplete SAR displacement time series._](https://ieeexplore.ieee.org/abstract/document/9170898)
 <br/>
@@ -34,7 +34,7 @@ Hippert-Ferrer A., Yan Y., Bolon P.
 <br/>
 `IEEE Transactions on Geoscience and Remote Sensing`, **2020**.
 <br/>
-\[<a href="https://github.com/ahippert/ahippert.github.io/pdfs/tgrs_2020.pdf" target="_blank">PDF</a>\] \[<a href="https://github.com/ahippert/em-eof" target="_blank">Code</a>\]
+\[<a href="https://ahippert.github.io/pdfs/tgrs_2020.pdf" target="_blank">PDF</a>\] \[<a href="https://github.com/ahippert/em-eof" target="_blank">Code</a>\]
 
 [_Gap-filling based on EOF analysis of spatio-temporal covariance of satellite image derived displacement time series._](https://ieeexplore.ieee.org/document/9324467)
 <br/>
@@ -42,7 +42,7 @@ Hippert-Ferrer A., Yan Y., Bolon P.
 <br/>
 `IGARSS`, **Sep 2020**, Hawaii, USA (Online).
 <br/>
-\[<a href="https://github.com/ahippert/ahippert.github.io/pdfs/igarss_2020" target="_blank">PDF</a>\]
+\[<a href="https://ahippert.github.io/pdfs/igarss_2020" target="_blank">PDF</a>\]
 
 [_Gap-filling based on iterative EOF analysis of temporal covariance : application to InSAR displacement time series._](https://ieeexplore.ieee.org/document/8898952)
 <br/>
