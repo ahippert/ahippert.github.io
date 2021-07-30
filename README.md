@@ -1,14 +1,22 @@
 ## Short bio
 
-I am a post-doc at [L2S](https://l2s.centralesupelec.fr/) working with [Florent Bouchard](https://sites.google.com/view/florentbouchard/home) and [Nabil El Korso](https://sites.google.com/site/nabkorso/) (LEME, Université Paris Nanterre). I recently received the Ph.D degree from University Savoie Mont Blanc, Annecy, France, supervised by [Philippe Bolon](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/philippe-bolon/) and [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/). You can [watch here](https://www.youtube.com/watch?v=RpKIe1dnPz8) my defense at [LISTIC](https://www.univ-smb.fr/listic/) in October 2020.
+I am a post-doc at [L2S](https://l2s.centralesupelec.fr/) working with [Florent Bouchard](https://sites.google.com/view/florentbouchard/home) and [Nabil El Korso](https://sites.google.com/site/nabkorso/) (LEME, Université Paris Nanterre). I received the Ph.D degree from University Savoie Mont Blanc, Annecy, France, supervised by [Philippe Bolon](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/philippe-bolon/) and [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/). You can [watch here](https://www.youtube.com/watch?v=RpKIe1dnPz8) my defense at [LISTIC](https://www.univ-smb.fr/listic/) in October 2020.
 
 ## Publications (also in [HAL](https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=hippert-ferrer&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/styles_publicationsHAL.css))
 
-[_Robust Mean and Covariance Matrix Estimation Under Heterogeneous Mixed-Effects Model._](https://hal.archives-ouvertes.fr/hal-03156771/document)
+[_Robust low-rank covariance matrix estimation with a general pattern of missing values._](https://arxiv.org/abs/2107.10505)
 <br/>
 Hippert-Ferrer A., El Korso M. N., Breloy A., Ginolhac G.
 <br/>
-Submitted to `Signal Processing`, **2021**.
+submitted to `Signal Processing`, **2021**.
+\[<a href="https://arxiv.org/pdf/2107.10505.pdf" target="_blank">PDF</a>\] 
+
+[_Robust Mean and Covariance Matrix Estimation Under Heterogeneous Mixed-Effects Model._](https://www.sciencedirect.com/science/article/pii/S0165168421002334?casa_token=fxP9DoobkSAAAAAA:Z-vUEBqHFJVaEUJfN6-d3nOuQFjsMBfGK-UUZ37r2RmyGKyyR0NS8pZFmsfU-ip4nJvzx2pNQw)
+<br/>
+Hippert-Ferrer A., El Korso M. N., Breloy A., Ginolhac G.
+<br/>
+`Signal Processing`, **2021**.
+\[<a href="https://hal.archives-ouvertes.fr/hal-03156771/document" target="_blank">PDF</a>\] 
 
 [_Spatio-temporal flling of missing data in remotely sensed displacement measurement time series._](https://ieeexplore.ieee.org/abstract/document/9173747)
 <br/>
