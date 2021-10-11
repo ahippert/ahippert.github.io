@@ -52,7 +52,7 @@ Hippert-Ferrer A., Yan Y., Bolon P.
 <br/>
 `IGARSS`, **2020**, Hawaii, USA (Online).
 <br/>
-\[<a href="https://ahippert.github.io/pdfs/igarss_2020" target="_blank">pdf</a>\] \[<a href="https://ahippert.github.io/pdfs/igarss_2020_oral" target="_blank">slides</a>\]
+\[<a href="https://ahippert.github.io/pdfs/igarss_2020.pdf" target="_blank">pdf</a>\] \[<a href="https://ahippert.github.io/pdfs/igarss_2020_oral.pdf" target="_blank">slides</a>\]
 
 [_Gap-filling based on iterative EOF analysis of temporal covariance : application to InSAR displacement time series._](https://ieeexplore.ieee.org/document/8898952)
 <br/>
@@ -60,7 +60,7 @@ Hippert-Ferrer A., Yan Y., Bolon P.
 <br/>
 `IGARSS`, **2019**, Yokohama, Japan.
 <br/>
-\[<a href="https://hal.archives-ouvertes.fr/hal-02178695v2/document" target="_blank">pdf</a>\] \[<a href="https://github.com/ahippert/em-eof" target="_blank">code</a>\] \[<a href="https://ahippert.github.io/pdfs/igarss_2019_oral" target="_blank">slides</a>\]
+\[<a href="https://hal.archives-ouvertes.fr/hal-02178695v2/document" target="_blank">pdf</a>\] \[<a href="https://github.com/ahippert/em-eof" target="_blank">code</a>\] \[<a href="https://ahippert.github.io/pdfs/igarss_2019_oral.pdf" target="_blank">slides</a>\]
 
 Reconstruction de données manquantes par analyse en EOF : application aux séries temporelles de mesures de déplacement InSAR. 
 <br/>
