@@ -40,6 +40,14 @@ Hippert-Ferrer A., Yan Y., Bolon P.
 
 ### Selected conferences
 
+[_Riemannian classification of EEG signals with missing values._](https://arxiv.org/pdf/2110.10011)
+<br/>
+Hippert-Ferrer A., Mian A., Bouchard F., Pascal F.
+<br/>
+**2022**.
+<br/>
+\[<a href="https://arxiv.org/pdf/2110.10011.pdf" target="_blank">pdf</a>\] \[<a href="https://github.com/ahippert/eeg-missing-data" target="_blank">code</a>\]
+
 Covariance-Based Gap Filling in InSAR Displacement Mesurement Time Series.
 <br/>
 Hippert-Ferrer A., Yan Y., Bolon P.
@@ -78,5 +86,5 @@ Reconstruction de données manquantes dans des séries temporelles de déplaceme
 <br/>
 **2020**, Université Savoie Mont Blanc, LISTIC, Annecy.
 <br/>
-\[<a href="https://ahippert.github.io/pdfs/oral_these" target="_blank">slides</a>\]
+\[<a href="https://ahippert.github.io/pdfs/Manuscrit.pdf" target="_blank">pdf</a>\] \[<a href="https://ahippert.github.io/pdfs/oral_these" target="_blank">slides</a>\]
 
