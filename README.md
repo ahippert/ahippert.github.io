@@ -1,16 +1,24 @@
 ## Short bio
 
-I am a post-doc at [L2S](https://l2s.centralesupelec.fr/) working with [Florent Bouchard](https://sites.google.com/view/florentbouchard/home) and [Nabil El Korso](https://sites.google.com/site/nabkorso/) (LEME, Université Paris Nanterre). I received the Ph.D degree from University Savoie Mont Blanc, Annecy, France, supervised by [Philippe Bolon](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/philippe-bolon/) and [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/). You can [watch here](https://www.youtube.com/watch?v=RpKIe1dnPz8) my defense at [LISTIC](https://www.univ-smb.fr/listic/) in October 2020.
+I am a post-doc at [L2S](https://l2s.centralesupelec.fr/) working with [Florent Bouchard](https://sites.google.com/view/florentbouchard/home) and [Frédéric Pascal](https://fredericpascal.blogspot.com/p/home.html). I also collaborate with [Arnaud Breloy](https://abreloy.github.io/) and [Nabil El Korso](https://sites.google.com/site/nabkorso/) (LEME, Université Paris Nanterre). I received the Ph.D degree from University Savoie Mont Blanc, Annecy, France, supervised by [Philippe Bolon](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/philippe-bolon/) and [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/). You can [watch here](https://www.youtube.com/watch?v=RpKIe1dnPz8) my defense at [LISTIC](https://www.univ-smb.fr/listic/) in October 2020.
 
 ## Publications
 
 ### Journals
 
-[_Robust low-rank covariance matrix estimation with a general pattern of missing values._](https://arxiv.org/abs/2107.10505)
+A robust and flexible EM algorithm for mixtures of elliptical distributions with missing data
+<br/>
+Mouret F., Hippert-Ferrer A., Pascal F., Tourneret J.-Y.
+<br/>
+Submitted to `Machine Learning`, **2022**.
+<br/>
+[pdf coming soon!] \[<a href="https://github.com/fmouret/flexible_em_with_missing_data" target="_blank">code</a>\] 
+
+[_Robust low-rank covariance matrix estimation with a general pattern of missing values._](https://www.sciencedirect.com/science/article/pii/S016516842200007X)
 <br/>
 Hippert-Ferrer A., El Korso M. N., Breloy A., Ginolhac G.
 <br/>
-submitted to `Signal Processing`, **2021**.
+`Signal Processing`, **2021**.
 <br/>
 \[<a href="https://arxiv.org/pdf/2107.10505.pdf" target="_blank">pdf</a>\] 
 
@@ -86,5 +94,5 @@ Reconstruction de données manquantes dans des séries temporelles de déplaceme
 <br/>
 **2020**, Université Savoie Mont Blanc, LISTIC, Annecy.
 <br/>
-\[<a href="https://ahippert.github.io/pdfs/Manuscrit.pdf" target="_blank">pdf</a>\] \[<a href="https://ahippert.github.io/pdfs/oral_these" target="_blank">slides</a>\]
+\[<a href="https://tel.archives-ouvertes.fr/tel-03507672" target="_blank">pdf</a>\] \[<a href="https://ahippert.github.io/pdfs/oral_these" target="_blank">slides</a>\]
 
