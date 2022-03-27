@@ -1,6 +1,16 @@
-## Teaching
+## Teaching and monitoring
 
-### 2021 -- IUT Cachan
+### 2022 -- CentraleSupélec, Université Paris Saclay
+`Statistics and machine learning` (3rd year students)
+<br/>
+Tutorials and Lab sessions.
+
+### 2022 -- Master ATSI, Université Paris Saclay
+`Covariance-based learning of biomedical signals using Riemannian geometry`
+<br/>
+Supervision of two students for their research project (2 months).
+
+### 2021 -- IUT Cachan, Université Paris Saclay
 `Digital signal processing for sensors` (2nd year students)
 <br/>
 Lab sessions.
