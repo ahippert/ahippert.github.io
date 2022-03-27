@@ -12,7 +12,7 @@ Mouret F., Hippert-Ferrer A., Pascal F., Tourneret J.-Y.
 <br/>
 Submitted to `Machine Learning`, **2022**.
 <br/>
-[pdf coming soon!] \[<a href="https://github.com/fmouret/flexible_em_with_missing_data" target="_blank">code</a>\] 
+\[<a href="https://arxiv.org/pdf/2201.12020.pdf" target="_blank">pdf</a>\] \[<a href="https://github.com/fmouret/flexible_em_with_missing_data" target="_blank">code</a>\] 
 
 [_Robust low-rank covariance matrix estimation with a general pattern of missing values._](https://www.sciencedirect.com/science/article/pii/S016516842200007X)
 <br/>
