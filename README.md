@@ -1,6 +1,8 @@
 ## Short bio
 
-I am a post-doc at [L2S](https://l2s.centralesupelec.fr/) working with [Florent Bouchard](https://sites.google.com/view/florentbouchard/home) and [Frédéric Pascal](https://fredericpascal.blogspot.com/p/home.html). I also collaborate with [Arnaud Breloy](https://abreloy.github.io/) and [Nabil El Korso](https://sites.google.com/site/nabkorso/) (LEME, Université Paris Nanterre). I received the Ph.D degree from University Savoie Mont Blanc, Annecy, France, supervised by [Philippe Bolon](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/philippe-bolon/) and [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/). You can [watch here](https://www.youtube.com/watch?v=RpKIe1dnPz8) my defense at [LISTIC](https://www.univ-smb.fr/listic/) in October 2020. Here is also my <a href="https://ahippert.github.io/pdfs/curriculum.pdf" target="_blank">full curriculum</a>.
+I am an associate professor (_maître de conférences_) at [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/). As a permanent member of the [LASTIG](https://www.umr-lastig.fr/) lab (based in Saint-Mandé), I do my research in the [Strudel team](https://www.umr-lastig.fr/strudel/index.en.html). I mainly teach at [École Nationale des Sciences Géographiques](https://www.ensg.eu/Ecole).
+
+I was previously a post-doc at [L2S](https://l2s.centralesupelec.fr/) (Université Paris-Saclay) working with [Florent Bouchard](https://sites.google.com/view/florentbouchard/home) and [Frédéric Pascal](https://fredericpascal.blogspot.com/p/home.html). I also collaborate with [Arnaud Breloy](https://abreloy.github.io/) and [Nabil El Korso](https://sites.google.com/site/nabkorso/) (LEME, Université Paris Nanterre). I received the Ph.D degree from University Savoie Mont Blanc, Annecy, France, supervised by [Philippe Bolon](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/philippe-bolon/) and [Yajing Yan](https://www.univ-smb.fr/listic/pages-en/yajing-yan-en/). You can [watch here](https://www.youtube.com/watch?v=RpKIe1dnPz8) my defense at [LISTIC](https://www.univ-smb.fr/listic/) in October 2020. Here is also my <a href="https://ahippert.github.io/pdfs/curriculum.pdf" target="_blank">full curriculum</a>.
 
 ## Publications
 
@@ -10,7 +12,7 @@ A robust and flexible EM algorithm for mixtures of elliptical distributions with
 <br/>
 Mouret F., Hippert-Ferrer A., Pascal F., Tourneret J.-Y.
 <br/>
-Submitted to `Machine Learning`, **2022**.
+**2022**.
 <br/>
 \[<a href="https://arxiv.org/pdf/2201.12020.pdf" target="_blank">pdf</a>\] \[<a href="https://github.com/fmouret/flexible_em_with_missing_data" target="_blank">code</a>\] 
 
