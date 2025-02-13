@@ -1,5 +1,20 @@
 ## Teaching and monitoring
 
+### *Current* -- École Nationale des Sciences Géographiques, Université Gustave Eiffel
+
+`Introduction to deep learning in image processing ` (master students)
+<br/>
+Lectures and Lab sessions.
+
+`Image processing and remote sensing` (3rd year and master students)
+<br/>
+Lectures, tutorials and Lab sessions.
+
+`Introduction to graph theory` (3rd year students)
+<br/>
+Lectures and Lab sessions.
+
+
 ### 2022 -- CentraleSupélec, Université Paris Saclay
 `Statistics and machine learning` (3rd year students)
 <br/>
